@@ -1,0 +1,18 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "slider",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "author": "yujiping",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-minify": "0.0.5"
+  }
+}
